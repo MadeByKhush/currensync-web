@@ -35,4 +35,3 @@ function convertCurrency() {
 amountInput.addEventListener("input", convertCurrency);
 fromCurrency.addEventListener("change", convertCurrency);
 toCurrency.addEventListener("change", convertCurrency);
-+
